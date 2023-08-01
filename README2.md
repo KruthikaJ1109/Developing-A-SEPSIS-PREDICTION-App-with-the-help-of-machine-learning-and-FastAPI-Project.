@@ -1,12 +1,12 @@
 # Prediction with ML and FastAPI
 
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/Twizeyimana2022/Machine-Learning-API-using-FastAPI?tab=repositories)
-[![View My Profile](https://img.shields.io/badge/LINKEDIN-Article-purple?logo=Medium)](https://www.linkedin.com/pulse/classification-predicting-sepsis-machine-learning-fastapi-eric)
+[![View Repositories](https://github.com/justinjabo250?tab=repositories)](https://github.com/justinjabo250?tab=repositories)
+[![View My Profile](https://www.linkedin.com/in/jabo-justin-2815341a2/)](https://github.com/justinjabo250?tab=repositories)
 
 
 Develop a Machine Learning API (Application Programming Interface) using FastAPI.
 
-![ai(3)](https://github.com/Twieyimana2022/Machine-Learning-API-using-FastAPI/assets/102419217/1566fe8f-68bc-48fd-b9e0-2f8de41fd18c)
+![ai(3)](https://github.com/justinjabo250?tab=repositories)
 
 ## Introduction
 
@@ -85,8 +85,8 @@ http://127.0.0.1:8000/docs
 ```
 
 ## Screenshots
-![ezgif com-optimize (1)](https://github.com/Twizeyimana2022/Machine-Learning-API-using-FastAPI/assets/102419217/a8352c5f-afea-43b1-8bf5-c24607cf3481)
-![ezgif com-crop](https://github.com/Twieyimana2022/Machine-Learning-API-using-FastAPI/assets/102419217/df0ed5a8-2daf-47ca-a4f5-e6128429d5d3)
+![ezgif com-optimize (1)](https://github.com/justinjabo250?tab=repositories)
+![ezgif com-crop](https://github.com/justinjabo250?tab=repositories)
 
 ## Resources
 
@@ -97,7 +97,7 @@ Here are some ressources you would read to have a good understanding of FastAPI 
 - [FastAPI for Machine Learning: Live coding an ML web application](https://www.youtube.com/watch?v=_BZGtifh_gw)
 - [Video - Deploy ML models with FastAPI, Docker, and Heroku ](https://www.youtube.com/watch?v=h5wLuVDr0oc)
 - [FastAPI Tutorial Series](https://www.youtube.com/watch?v=tKL6wEqbyNs&list=PLShTCj6cbon9gK9AbDSxZbas1F6b6C_Mx)
-- [Http status codes](https://www.linkedin.com/feed/update/urn:li:activity:7017027658400063488?utm_source=share&utm_medium=member_desktop)
+- [Http status codes](https://github.com/justinjabo250?tab=repositories)
 
 ## 👏 Support
 
@@ -105,4 +105,4 @@ If you found this article helpful, please give it a clap or a star on GitHub!
 
 ## Author
 
-- [TWIZEYIMANA Eric](https://www.linkedin.com/in/twizeyimana-eric/)
+- [Justin Jabo](https://www.linkedin.com/in/jabo-justin-2815341a2/)
