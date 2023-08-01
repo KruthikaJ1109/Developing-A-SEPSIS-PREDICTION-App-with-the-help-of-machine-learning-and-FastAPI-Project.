@@ -1,0 +1,2 @@
+# Developing-A-Machine-Learning-API-Project-Using-FastAPI
+The major goal of this project is to develop a classification model that can accurately differentiate between sepsis and non-sepsis cases by using a dataset that contains essential information, such as blood test results, blood pressure, BMI, and patient age. A Docker container will be used to deploy the created model as a FastAPI-based API.
