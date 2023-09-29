@@ -26,13 +26,13 @@ The major goal of this project is to develop a classification model that can acc
 
 ## Importance of Project  
 
-The dataset used contains a list of patients in a hospital and their attributes and whether the patient is positive for Sepssis or not.
+The dataset used includes a list of hospital patients, their characteristics, and whether or not they have sepsis.
 
-Sepsis is a severe and potentially life-threatening condition that occurs when the body's response to an infection triggers widespread inflammation. It is often referred to as blood poisoning.
+Severe and potentially fatal illness known as sepsis develops when the body's reaction to an infection results in widespread inflammation. It's frequently called "blood poisoning."
 
-The aim of this project is to explore the various factors that can cause sepsis in order to predict the occurence of sepsis.
+In order to anticipate the occurrence of sepsis, the goal of this study is to investigate the numerous conditions that can result in sepsis.
 
-Predicting sepsis is important because early recognition and intervention can significantly improve patient outcomes. Sepsis can progress rapidly and become life-threatening within a short period. By identifying patients who are at risk of developing sepsis, healthcare providers can initiate timely treatment and interventions to prevent the condition from worsening.
+Sepsis prediction is crucial because early detection and treatment can dramatically enhance patient outcomes. Sepsis can advance quickly and turn life-threatening in a short amount of time. In order to stop the disease from getting worse, healthcare professionals can identify people who are at risk of developing sepsis and start timely treatment and treatments.
 
 # Dataset Description -
 
