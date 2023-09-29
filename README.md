@@ -1,5 +1,5 @@
 
-# 🚀 Sepsis Prediction with ML and FastAPI 🚀
+# 🚀 Developing A SEPSIS PREDICTION App with the help of machine learning and FastAPI Project. 🚀
 
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/justinjabo250)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/jabo-justin-2815341a2/) 
@@ -8,13 +8,19 @@
 [![Docker App](https://img.shields.io/badge/Gradio-App-yellow)](https://huggingface.co/spaces/Justin-J/Building-and-Deploying-a-Machine-Learning-Models-Using-Gradio-Application)
 
 
-Develop a Machine Learning API (Application Programming Interface) using FastAPI.
+# Developing A SEPSIS PREDICTION App with the help of machine learning and FastAPI Project.
 
-![ai(3)](https://github.com/ikoghoemmanuell/Machine-Learning-API-using-FastAPI/assets/102419217/1566fe8f-68bc-48fd-b9e0-2f8de41fd18c)
+![Sepsis_predict](https://github.com/justinjabo250/Developing-A-SEPSIS-PREDICTION-App-with-the-help-of-machine-learning-and-FastAPI-Project./assets/115732734/32699bd0-6446-4cf3-a7a7-45bbc329d682)
 
 ## Introduction
 
 We will explore a comprehensive machine learning project focused on predicting sepsis using classification techniques. By leveraging FastAPI, we were able to deploy the model as a user-friendly API, enabling real-time predictions. The combination of machine learning and web development has immense potential in healthcare and can significantly contribute to early sepsis detection and patient care.
+
+![Sepsis_Pedit](https://github.com/justinjabo250/Developing-A-SEPSIS-PREDICTION-App-with-the-help-of-machine-learning-and-FastAPI-Project./assets/115732734/39545265-9dbb-41b7-a817-0d70da523e0a)
+
+## The Goals of this Project
+
+The major goal of this project is to develop a classification model that can accurately differentiate between sepsis and non-sepsis cases by using a dataset that contains essential information, such as blood test results, blood pressure, BMI, and patient age. A Docker container will be used to deploy the created model as a FastAPI-based API.
 
 ## Description
 
