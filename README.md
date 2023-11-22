@@ -16,6 +16,7 @@
 
 ## Introduction
 
+
 We will explore a comprehensive machine learning project focused on predicting sepsis using classification techniques. By leveraging FastAPI, we were able to deploy the model as a user-friendly API, enabling real-time predictions. The combination of machine learning and web development has immense potential in healthcare and can significantly contribute to early sepsis detection and patient care.
 
 ![Sepsis_Pedit](https://github.com/justinjabo250/Developing-A-SEPSIS-PREDICTION-App-with-the-help-of-machine-learning-and-FastAPI-Project./assets/115732734/39545265-9dbb-41b7-a817-0d70da523e0a)
