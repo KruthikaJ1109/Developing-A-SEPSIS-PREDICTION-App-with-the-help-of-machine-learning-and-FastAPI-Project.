@@ -1,7 +1,7 @@
 
 # 🚀 Developing A SEPSIS PREDICTION App with the help of machine learning and FastAPI Project. 🚀
 
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/justinjabo250)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-darkgreen?logo=GitHub)](https://github.com/justinjabo250)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=orange)](https://www.linkedin.com/in/jabo-justin-2815341a2/) 
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-darkred?logo=GitHub)](https://github.com/justinjabo250?tab=repositories)
 [![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@jabojustin250/sepsis-prediction-using-fastapi-and-machine-learning-categorization-6b0a5db6805b)
