@@ -7,7 +7,6 @@
 [![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@jabojustin250/sepsis-prediction-using-fastapi-and-machine-learning-categorization-6b0a5db6805b)
 [![Docker App](https://img.shields.io/badge/Gradio-App-yellow)](https://huggingface.co/spaces/Justin-J/Building-and-Deploying-a-Machine-Learning-Models-Using-Gradio-Application)
 [![Articles](https://img.shields.io/badge/My-Portfolio-darkblue?logo=Website)](https://justinjabo250.github.io/Developing-a-web-application-for-an-online-portfolio./)
-[![View GitHub Profile](https://img.shields.io/badge/GitHub-Profile-darkgreen)](https://github.com/justinjabo250)
 
 
 # Developing A SEPSIS PREDICTION App with the help of machine learning and FastAPI Project.
